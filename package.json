@@ -1,0 +1,23 @@
+{
+  "name": "todo-react-e2e-test",
+  "version": "1.0.0",
+  "description": "Separate Cypress E2E test for Todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranvantoan-qn/todo-react-E2E-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranvantoan-qn/todo-react-E2E-test/issues"
+  },
+  "homepage": "https://github.com/tranvantoan-qn/todo-react-E2E-test#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
